@@ -23,7 +23,6 @@
     <ul>
         <li>Temporal trends in daily admissions, total deaths, and new daily cases.</li>
         <li>Correlations between various pandemic-related variables.</li>
-        <li>Insights into the effectiveness of mitigation measures.</li>
     </ul>
 </div>
 
